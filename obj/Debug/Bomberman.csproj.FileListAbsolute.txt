@@ -1,0 +1,24 @@
+c:\users\equipo\documents\visual studio 2015\Projects\Bomberman\Bomberman\bin\Debug\Bomberman.exe.config
+c:\users\equipo\documents\visual studio 2015\Projects\Bomberman\Bomberman\bin\Debug\Bomberman.exe
+c:\users\equipo\documents\visual studio 2015\Projects\Bomberman\Bomberman\bin\Debug\Bomberman.pdb
+c:\users\equipo\documents\visual studio 2015\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.csprojResolveAssemblyReference.cache
+c:\users\equipo\documents\visual studio 2015\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.Form1.resources
+c:\users\equipo\documents\visual studio 2015\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.Properties.Resources.resources
+c:\users\equipo\documents\visual studio 2015\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.csproj.GenerateResource.Cache
+c:\users\equipo\documents\visual studio 2015\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.exe
+c:\users\equipo\documents\visual studio 2015\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.pdb
+C:\Users\equipo\Documents\Visual Studio 2015\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.Form2.resources
+C:\Users\equipo\Desktop\Bomberman\Bomberman\Bomberman\bin\Debug\Bomberman.exe.config
+C:\Users\equipo\Desktop\Bomberman\Bomberman\Bomberman\obj\Debug\Bomberman.exe
+C:\Users\equipo\Desktop\Bomberman\Bomberman\Bomberman\obj\Debug\Bomberman.pdb
+C:\Users\equipo\Desktop\Calificacion Nueva\[LFP]ProyectoF1_201212644\Bomberman\Bomberman\bin\Debug\Bomberman.exe.config
+C:\Users\equipo\Desktop\Calificacion Nueva\[LFP]ProyectoF1_201212644\Bomberman\Bomberman\obj\Debug\Bomberman.exe
+C:\Users\equipo\Desktop\Calificacion Nueva\[LFP]ProyectoF1_201212644\Bomberman\Bomberman\obj\Debug\Bomberman.pdb
+C:\Users\equipo\Desktop\Calificacion Nueva\[LFP]ProyectoF1_201212644\Bomberman\Bomberman\bin\Debug\Bomberman.exe
+C:\Users\equipo\Desktop\Calificacion Nueva\[LFP]ProyectoF1_201212644\Bomberman\Bomberman\bin\Debug\Bomberman.pdb
+C:\Users\equipo\Desktop\Calificacion Nueva\[LFP]ProyectoF1_201212644\Bomberman\Bomberman\obj\Debug\Bomberman.csprojResolveAssemblyReference.cache
+C:\Users\equipo\Desktop\Calificacion Nueva\[LFP]ProyectoF1_201212644\Bomberman\Bomberman\obj\Debug\Bomberman.Form1.resources
+C:\Users\equipo\Desktop\Calificacion Nueva\[LFP]ProyectoF1_201212644\Bomberman\Bomberman\obj\Debug\Bomberman.Form2.resources
+C:\Users\equipo\Desktop\Calificacion Nueva\[LFP]ProyectoF1_201212644\Bomberman\Bomberman\obj\Debug\Bomberman.Properties.Resources.resources
+C:\Users\equipo\Desktop\Calificacion Nueva\[LFP]ProyectoF1_201212644\Bomberman\Bomberman\obj\Debug\Bomberman.csproj.GenerateResource.Cache
+C:\Users\equipo\Documents\Visual Studio 2015\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.Form3.resources
